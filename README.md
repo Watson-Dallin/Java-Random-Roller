@@ -17,7 +17,7 @@ This program was an exercise in Java. I also used the HashMap (equal to Python's
 
 # Useful Website
 
-* [W3 Schools Tutorials](www.w3schools.com)
+* [W3 Schools Tutorials](https://www.w3schools.com/java/)
 
 # Future Work
 
